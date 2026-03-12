@@ -17,4 +17,4 @@ Insights
 - Electronic check users churn more frequently
 - Senior citizens show higher churn rate
 ## Dashboard Preview
-![images](ChurnDashboard.jpg)
+![Customer Churn Dashboard](images/dashboard_preview.jpg)
