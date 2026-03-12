@@ -16,3 +16,5 @@ Insights
 - Month-to-month contracts show highest churn
 - Electronic check users churn more frequently
 - Senior citizens show higher churn rate
+## Dashboard Preview
+![Customer Churn Dashboard](ChurnDashboard.jpg)
