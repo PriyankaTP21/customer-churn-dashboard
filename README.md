@@ -17,4 +17,4 @@ Insights
 - Electronic check users churn more frequently
 - Senior citizens show higher churn rate
 ## Dashboard Preview
-![telecom-customer-churn-analysis-powerbi](images/ChurnDashboard.jpg)
+![Customer Churn Dashboard](images/ChurnDashboard.jpg)
